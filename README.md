@@ -1,5 +1,6 @@
 # cartas-magicas
 Ejercicio cartas Mágicas.
+
 La empresa Magos de la Costa se ha puesto en contacto contigo para que les implementes su nuevo juego de cartas “Magia”. 
 El juego estará compuesto por distintos tipos de cartas, todas ellas identificadas por un nombre, un número de colección, una rareza (común, poco común, rara y mítica). Los distintos tipos de cartas son: 
 -	Tierras: principal fuente de energía que tiene el jugador. Cada tierra añade un punto de energía. Cada tierra solo puede ser de un tipo: roja, verde, azul, blanca o negra. 
